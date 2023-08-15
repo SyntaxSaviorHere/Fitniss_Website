@@ -1,0 +1,22 @@
+.navigation {
+  width: 100vw;
+  background-color: #303030;
+
+  padding-left: 90px;
+
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+}
+
+.navigation a {
+  color: #a7a7a7;
+  text-decoration: none;
+  padding: 10px;
+  border-bottom: #303030 solid 2px;
+}
+.navigation a:hover {
+  background-color: #404040;
+  border-bottom: #767676 solid 2px;
+}

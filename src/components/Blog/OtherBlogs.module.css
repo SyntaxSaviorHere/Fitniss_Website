@@ -1,0 +1,12 @@
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+}

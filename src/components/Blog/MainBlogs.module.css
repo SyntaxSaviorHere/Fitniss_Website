@@ -1,0 +1,19 @@
+.img {
+  width: 100%;
+}
+.description {
+  padding: 10px;
+}
+
+.readBtn {
+  background-color: #404040;
+  color: #999;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.readBtn:hover {
+  background-color: #454545;
+}
+.readBtn:active {
+  background-color: #505050;
+}

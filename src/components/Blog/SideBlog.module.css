@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  background-color: #303030;
+  padding: 10px;
+  width: 100%;
+}
+
+.imgContainer {
+  min-width: 150px;
+  max-width: 150px;
+}
+.img {
+  width: 100%;
+  object-fit: cover;
+  height: 150px;
+}
+
+.readBtn {
+  background-color: #404040;
+  color: #999;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.readBtn:hover {
+  background-color: #454545;
+}
+.readBtn:active {
+  background-color: #505050;
+}

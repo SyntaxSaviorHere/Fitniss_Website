@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 403 316" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.33333,0,0,1.33333,-1805.11,-1251.78)">
+        <g transform="matrix(1,0,0,1,-545,-451.75)">
+            <path d="M2190,1401L2150,1401L2134.36,1450L2098,1552L1953,1553L1909.25,1450L2134.36,1450" style="fill:none;stroke:rgb(154,154,154);stroke-width:20.83px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-545,-451.75)">
+            <path d="M2059,1450L2050,1553" style="fill:none;stroke:rgb(154,154,154);stroke-width:20.83px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-545,-451.75)">
+            <path d="M1977.5,1450L1997.86,1552.69" style="fill:none;stroke:rgb(154,154,154);stroke-width:20.83px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-547,-458.75)">
+            <ellipse cx="2084" cy="1604.5" rx="20" ry="18.5" style="fill:none;stroke:rgb(154,154,154);stroke-width:20.83px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-633.589,-458.25)">
+            <ellipse cx="2084" cy="1604.5" rx="20" ry="18.5" style="fill:none;stroke:rgb(154,154,154);stroke-width:20.83px;"/>
+        </g>
+    </g>
+</svg>

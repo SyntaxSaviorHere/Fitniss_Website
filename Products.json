@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1",
+    "title": "Adjustable Weight Benches",
+    "text": "Adjustable weight benches are versatile fitness equipment designed to provide support and comfort during various strength training exercises. These benches can be modified to different angles, allowing users to perform exercises like bench presses, incline presses, decline presses, and more. They often feature padded seats and backrests for comfort, along with adjustable features that let you change the angle to target different muscle groups.",
+    "type": "fitness",
+    "image": "/assets/images/products/adjustable-weight-benches.png",
+    "price": "$12.99"
+  },
+  {
+    "id": "2",
+    "title": "Creatine",
+    "text": "Creatine is a naturally occurring compound found in small amounts in certain foods and also produced by the body. It's commonly used as a dietary supplement to enhance athletic performance and support muscle growth during resistance training.",
+    "type": "food",
+    "image": "/assets/images/products/creatine.png",
+    "price": "$3.99"
+  },
+  {
+    "id": "3",
+    "title": "Double Dumbbell",
+    "text": "A double dumbbell combines the benefits of both dumbbells and a long barbell. It typically consists of a short bar with weights attached at each end, similar to traditional dumbbells. This versatile equipment allows you to perform a wide range of exercises targeting different muscle groups.",
+    "type": "fitness",
+    "image": "/assets/images/products/doubleDumbel.png",
+    "price": "$3.99"
+  },
+  {
+    "id": "4",
+    "title": "Gray Dumbbells",
+    "text": "Gray dumbbells are a type of free weight used in strength training and weightlifting exercises. They consist of a short bar with weights attached at each end. These dumbbells come in various sizes, and they can be used for a wide range of exercises targeting different muscle groups.",
+    "type": "fitness",
+    "image": "/assets/images/products/dumbells-gray.png",
+    "price": "$3.99"
+  },
+  {
+    "id": "5",
+    "title": "Black Dumbbells",
+    "text": "Black dumbbells are a type of free weight commonly used in strength training and weightlifting exercises. They consist of a short bar with weights attached at each end. These dumbbells come in various sizes, and they can be used for a wide range of exercises targeting different muscle groups.",
+    "type": "fitness",
+    "image": "/assets/images/products/dumbells.png",
+    "price": "$3.99"
+  },
+  {
+    "id": "6",
+    "title": "Mixer",
+    "text": "A mixer is a kitchen appliance used to combine ingredients and create mixtures for various recipes. It's commonly used for baking, cooking, and preparing beverages. Mixers come in different types, including hand mixers and stand mixers, offering convenience and efficiency in the kitchen.",
+    "type": "food",
+    "image": "/assets/images/products/mixer.png",
+    "price": "$3.99"
+  },
+  {
+    "id": "7",
+    "title": "Protein",
+    "text": "Protein is an essential nutrient required for building and repairing tissues in the body. Protein supplements are commonly used by individuals engaged in fitness and sports activities to support muscle recovery and growth. They come in various forms, including protein powders and bars.",
+    "type": "food",
+    "image": "/assets/images/products/protein.png",
+    "price": "$3.99"
+  },
+  {
+    "id": "8",
+    "title": "Pull-Up Bar - Type 1",
+    "text": "A pull-up bar is a fitness equipment designed to help you perform pull-up and chin-up exercises. It's typically mounted on a doorframe or wall. Pull-ups are effective for strengthening the upper body, particularly the back, shoulders, and arms.",
+    "type": "fitness",
+    "image": "/assets/images/products/pull-up-bar.png",
+    "price": "$9.99"
+  },
+  {
+    "id": "9",
+    "title": "Pull-Up Bar - Type 2",
+    "text": "A pull-up bar is a fitness equipment designed to help you perform pull-up and chin-up exercises. It's typically mounted on a doorframe or wall. Pull-ups are effective for strengthening the upper body, particularly the back, shoulders, and arms.",
+    "type": "fitness",
+    "image": "/assets/images/products/pull-up-bar-2.png",
+    "price": "$2.99"
+  },
+  {
+    "id": "10",
+    "title": "Resistance Bands - Black",
+    "text": "Black resistance bands are versatile fitness tools used for resistance training. They come in different levels of resistance and can be used to target various muscle groups. Resistance bands are compact and portable, making them suitable for home workouts or on-the-go training.",
+    "type": "fitness",
+    "image": "/assets/images/products/resistance-bands-black.png",
+    "price": "$7.99"
+  },
+  {
+    "id": "11",
+    "title": "Resistance Bands - Red",
+    "text": "Red resistance bands are versatile fitness tools used for resistance training. They come in different levels of resistance and can be used to target various muscle groups. Resistance bands are compact and portable, making them suitable for home workouts or on-the-go training.",
+    "type": "fitness",
+    "image": "/assets/images/products/resistance-bands-red.png",
+    "price": "$5.00"
+  },
+  {
+    "id": "12",
+    "title": "Resistance Bands - Yellow",
+    "text": "Yellow resistance bands are versatile fitness tools used for resistance training. They come in different levels of resistance and can be used to target various muscle groups. Resistance bands are compact and portable, making them suitable for home workouts or on-the-go training.",
+    "type": "fitness",
+    "image": "/assets/images/products/resistance-bands-yellow.png",
+    "price": "$19.99"
+  },
+  {
+    "id": "13",
+    "title": "Sport Shirt - Black",
+    "text": "A black sport shirt is designed for athletic activities and exercise. It's made from breathable and moisture-wicking materials to keep you comfortable during workouts. Sport shirts are suitable for a wide range of sports and fitness activities.",
+    "type": "clothing",
+    "image": "/assets/images/products/shirt-sport-black.png",
+    "price": "$20.99"
+  },
+  {
+    "id": "14",
+    "title": "Sport Shirt - White",
+    "text": "A white sport shirt is designed for athletic activities and exercise. It's made from breathable and moisture-wicking materials to keep you comfortable during workouts. Sport shirts are suitable for a wide range of sports and fitness activities.",
+    "type": "clothing",
+    "image": "/assets/images/products/shirt-sport-white.png",
+    "price": "$13.99"
+  },
+  {
+    "id": "15",
+    "title": "Running Shoe - Black",
+    "text": "Black running shoes are designed for jogging, running, and other forms of cardiovascular exercise. They provide cushioning and support to minimize impact on your joints during high-impact activities. Running shoes come in various styles and designs.",
+    "type": "clothing",
+    "image": "/assets/images/products/shoe-black.png",
+    "price": "$9.99"
+  },
+  {
+    "id": "16",
+    "title": "Running Shoe - Gray",
+    "text": "Gray running shoes are designed for jogging, running, and other forms of cardiovascular exercise. They provide cushioning and support to minimize impact on your joints during high-impact activities. Running shoes come in various styles and designs.",
+    "type": "clothing",
+    "image": "/assets/images/products/shoe-gray.png",
+    "price": "$3.99"
+  },
+  {
+    "id": "17",
+    "title": "Running Shoe - Red",
+    "text": "Red running shoes are designed for jogging, running, and other forms of cardiovascular exercise. They provide cushioning and support to minimize impact on your joints during high-impact activities. Running shoes come in various styles and designs.",
+    "type": "clothing",
+    "image": "/assets/images/products/shoe-red.png",
+    "price": "$3.99"
+  }
+]

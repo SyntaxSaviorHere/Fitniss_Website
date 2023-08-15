@@ -1,0 +1,37 @@
+.container {
+  width: 100vw;
+  height: 60vh;
+
+  background-image: url("/assets/images/offer-pic.jpg");
+
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  padding-top: 60px;
+  padding-left: 60px;
+}
+.container p {
+  color: #f06565;
+  font-weight: bold;
+  font-size: 30px;
+}
+.container h1 {
+  font-size: 50px;
+  text-shadow: 0 0 15px rgb(0, 0, 0, 1);
+  width: 500px;
+  color: #e1e1e1;
+  top: 100px;
+}
+
+.container button {
+  background: #b90000;
+  font-weight: bold;
+  color: #e1e1e1;
+  border-radius: 0px;
+}
+.container button:hover {
+  background-color: #af0000;
+}
+.container button:active {
+  background-color: #980000;
+}

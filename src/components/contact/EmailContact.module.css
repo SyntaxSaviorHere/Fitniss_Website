@@ -1,0 +1,49 @@
+.form {
+  width: 80vw;
+  margin: 0 auto;
+  margin-top: 0px;
+  margin-top: 50px;
+  background: #202020;
+  padding: 50px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form div {
+  display: flex;
+  align-items: start;
+  gap: 10px;
+}
+.form div label {
+  min-width: 100px;
+  font-size: 20px;
+}
+
+.input1 {
+  background-color: #404040;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  padding: 8px 10px;
+}
+.form div textarea {
+  resize: none;
+  height: 200px;
+  width: 100%;
+  background-color: #404040;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flexRight {
+  justify-content: end;
+}
+.form div button {
+  background-color: #303030;
+  color: #d7d7d7;
+}

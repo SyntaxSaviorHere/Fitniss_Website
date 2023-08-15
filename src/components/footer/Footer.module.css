@@ -1,0 +1,17 @@
+.footer {
+  margin-top: 100px;
+  background-color: #303030;
+  height: 30vh;
+  width: 100vw;
+  padding: 40px 30% 0px 30%;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-template-rows: repeat(4, auto); /* 4 rows */
+  gap: 20px; /* Gap between grid items */
+}
+.footer div {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

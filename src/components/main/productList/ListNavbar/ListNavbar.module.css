@@ -1,0 +1,25 @@
+.navbar {
+  width: 100%;
+  background-color: #202020;
+}
+.navbar ul {
+  display: flex;
+  padding: 0px 20%;
+  align-items: center;
+
+  list-style: none;
+}
+
+.navbar ul li {
+  padding: 5px;
+  border-right: 1px solid #707070;
+  padding: 10px 15px;
+}
+.navbar ul li:hover {
+  background-color: #303030;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #101010;
+}

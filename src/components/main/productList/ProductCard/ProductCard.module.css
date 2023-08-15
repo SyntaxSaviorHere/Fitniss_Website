@@ -1,0 +1,69 @@
+.card {
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  background-color: white;
+  animation: showup 0.4s forwards;
+}
+
+.card button {
+  background: #ffbf00;
+  color: black;
+  font-weight: bold;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  transition: 0.2s all;
+}
+.card button:hover {
+  background-color: #ffc823;
+}
+.card button:active {
+  background-color: #ffd454;
+  box-shadow: 0 0 15px rgba(255, 179, 0, 0.6);
+}
+
+.card p {
+  left: 75%;
+  position: relative;
+  background: black;
+  width: 57px;
+  color: orange;
+  padding: 5px;
+  top: -13px;
+}
+.flex {
+  width: 204px;
+  position: relative;
+  top: 68%;
+  left: -6%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.729);
+  padding: 5px;
+}
+
+.flex h5 {
+  color: white;
+  font-size: 12px;
+  text-shadow: 0 0 5px rgb(255, 255, 255, 0.5);
+}
+
+.clicked {
+  background-color: #4e4e4e !important;
+  box-shadow: 0 0 15px #ffbf00 !important;
+  color: rgb(110, 212, 110) !important;
+}
+
+.nothing {
+}
+
+@keyframes showup {
+  0% {
+    opacity: 0;
+    transform: scale(0.7);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

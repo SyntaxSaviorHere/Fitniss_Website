@@ -1,0 +1,32 @@
+.yellow {
+  background-color: rgb(255, 200, 0);
+}
+.yellow:hover {
+  background-color: rgb(228, 179, 0);
+}
+.yellow:active {
+  background-color: rgb(198, 155, 0);
+}
+.orange {
+  background-color: #ff9914;
+}
+.orange:hover {
+  background-color: #e08106;
+}
+.orange:active {
+  background-color: #b96900;
+}
+.gray {
+  background-color: #202020;
+  border: 1px solid #404040;
+  color: rgb(11, 167, 11) !important;
+}
+.gray:hover {
+  background-color: #202020;
+  border: 1px solid #404040;
+  cursor: default;
+}
+.gray:active {
+  background-color: #202020;
+  border: 1px solid #404040;
+}

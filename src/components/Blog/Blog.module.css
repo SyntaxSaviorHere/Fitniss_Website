@@ -1,0 +1,38 @@
+.h11 {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  text-shadow: 0 0 15px rgb(255, 255, 255, 0.6);
+}
+
+.container {
+  width: 90vw;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  margin: 0px auto;
+  margin-top: 50px;
+  background-color: #202020;
+  padding: 10px;
+  border-radius: 8px;
+  gap: 20px;
+}
+.mainBlog {
+  width: 50%;
+  background-color: #202020;
+}
+.sideBlogs {
+  min-width: 50%;
+  background-color: #202020;
+}
+
+.list {
+  width: 80vw;
+  margin: 0px auto;
+  margin-top: 50px;
+}
+.list h2 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #303003;
+}

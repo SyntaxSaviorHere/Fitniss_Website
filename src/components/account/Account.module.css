@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: #202020;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.container div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+
+.container div button {
+  background-color: #303030;
+}
+.container div button:hover {
+  background-color: #353535;
+}
+.container div button:active {
+  background-color: #404040;
+}

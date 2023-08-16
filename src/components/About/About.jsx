@@ -1,9 +1,11 @@
+import BackButton from "../../UI/BackButton";
 import classes from "./About.module.css";
 import random from "/assets/images/about/randomPerson.svg";
 
 const About = () => {
   return (
     <section className={classes.container}>
+      <BackButton />
       <section className={classes.bossSection}>
         <h2>SEO: </h2>
         <div className={classes.personCard}>

@@ -1,11 +1,19 @@
 import { useState } from "react";
 import classes from "./BigCard.module.css";
+import { useNavigate } from "react-router";
 
 const BigCard = (props) => {
   const [hovering, setHovering] = useState(false);
-  const { title, text, image } = props;
+  const navigate = useNavigate();
+  const { title, text, image, navigateTo } = props;
+
+  const clickHandler = () => {
+    navigate(navigateTo, { state: { title, text, image } });
+  };
+
   return (
     <div
+      onClick={clickHandler}
       onMouseOver={() => setHovering((prevState) => true)}
       onMouseLeave={() => setHovering((prevState) => false)}
       style={{ backgroundImage: `url(${image})` }}

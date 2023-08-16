@@ -8,14 +8,16 @@ const SpecialOffer = () => {
   return (
     <section className={classes.container}>
       <BigCard
-        title="Get free 2 Months "
+        title="Get 2 Months Gym Subscription for free! "
         image={man}
         text="lorem ipisum wolm amanakium"
+        navigateTo={"/subscription"}
       />
       <BigCard
-        title="costum trainers"
+        title="Get access to Professionel Trainers"
         image={women}
         text="lorem ipisum wolm amanakium"
+        navigateTo={"/trainer"}
       />
     </section>
   );

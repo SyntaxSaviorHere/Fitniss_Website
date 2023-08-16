@@ -18,6 +18,7 @@
 }
 .imageContainer img {
   width: 100%;
+  animation: animate 1s forwards;
 }
 
 .description {
@@ -108,4 +109,15 @@
 .gray:active {
   background-color: #202020;
   border: 1px solid #404040;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 0;
+    transform: translateX(-200px);
+  }
+  100% {
+    opacity: 1;
+    transform: scaleX(0px);
+  }
 }

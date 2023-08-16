@@ -12,6 +12,7 @@
   background-color: #404040;
   border-radius: 10px;
   padding: 0 0 0 10px;
+  position: relative;
 }
 .cartButton {
   display: flex;
@@ -27,6 +28,7 @@
   gap: 10px;
 }
 .navbar div h1 {
+  cursor: pointer;
   color: rgb(222, 77, 77);
   text-shadow: 0 0 10px rgb(222, 77, 77);
 }

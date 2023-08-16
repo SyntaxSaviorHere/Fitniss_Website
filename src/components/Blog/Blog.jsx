@@ -3,11 +3,13 @@ import blogs from "../../../Blogs.json";
 import classes from "./Blog.module.css";
 import MainBlog from "./MainBlogs";
 import OtherBlogs from "./OtherBlogs";
+import BackButton from "../../UI/BackButton";
 const Blog = () => {
   const mainBlog = blogs[0];
   const otherBlogs = blogs.slice(1);
   return (
     <Fragment>
+      <BackButton />
       <h1 className={classes.h11}>Blogs</h1>
       <div className={classes.container}>
         <div className={classes.mainBlog}>

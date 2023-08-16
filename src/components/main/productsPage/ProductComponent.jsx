@@ -23,7 +23,7 @@ const ProductComponent = (props) => {
     <Fragment>
       <div className={classes.container}>
         <div className={classes.imageContainer}>
-          <img src={image} alt="" />
+          <img className={classes.animation} src={image} alt="" />
         </div>
         <div className={classes.description}>
           <h1>{title}</h1>
